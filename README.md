@@ -1,4 +1,4 @@
-# Export/Import Custom Options Product
+# Export/Import Custom Options Product for magento
 
 Export/Import Custom Options Product allow you export and import bulk custom options product through ssh, cron or brower. The extension support used csv and excel xml file.
 
